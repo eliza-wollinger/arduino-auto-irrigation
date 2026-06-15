@@ -55,11 +55,12 @@ flowchart TD
 - Expandable with IoT technologies
 - Simulation
 
-The project can be simulated using ThinkerCAD.
+## Simulation
 
-Future Improvements
-ESP32 Wi-Fi integration
-Mobile application monitoring
-Cloud data logging
-Predictive irrigation using AI
-Custom 3D printed enclosure
+[![Open in Tinkercad](https://img.shields.io/badge/Open%20in-Tinkercad-orange?style=for-the-badge)](https://www.tinkercad.com/things/cWb0s4UN5GM-irrigacao)
+
+The simulation includes:
+- Soil moisture sensor
+- Arduino Nano/Uno logic
+- Relay activation
+- Automatic irrigation control
